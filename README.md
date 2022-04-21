@@ -19,3 +19,16 @@ a simiple order-function can be assigned to the referenced blocks.
 ```
 
 ![my design concept](https://github.com/leolikescoding/consensus/blob/main/WechatIMG41.jpg)
+
+
+
+
+```
+Eth :
+Eth actually use a rewarding pre-forks incentive method , this actually not increase the tps.
+In our design we encourage the random selection mechanism to increase the tps which is used in both
+conflux and phantom design.
+
+```
+
+![eth design](https://github.com/leolikescoding/consensus/blob/main/WechatIMG11.jpg)
