@@ -31,4 +31,4 @@ conflux and phantom design.
 
 ```
 
-![eth design](https://github.com/leolikescoding/consensus/blob/main/WechatIMG11.jpg)
+![eth design](https://github.com/leolikescoding/consensus/blob/main/WechatIMG11.png)
