@@ -15,6 +15,6 @@ a simiple order-function can be assigned to the referenced blocks.
 
 
 
-[./WechatIMG42.png](conflux  design)
-[./WechatIMG41.jpg](my  design concept)
+[https://github.com/leolikescoding/consensus/WechatIMG42.png](conflux  design)
+[https://github.com/leolikescoding/consensus/WechatIMG41.jpg](my  design concept)
 ```
